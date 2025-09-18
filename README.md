@@ -1,3 +1,5 @@
+# HueFocus - Real Time Colour Identification System
+
 This is a project I made with my team during a 16-hour hackathon. It is a colour identification system which captures live video data from the webcam of the computer and detects various colours instantaneously. The user can also take a snapshot of the screen showing the identified colours.
 This project primarily uses ComputerVision (CV) techniques, with the following tech stack:
 
