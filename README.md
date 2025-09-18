@@ -1,2 +1,2 @@
 # HueFocus
-Web Cam Real-Time Colour Identifier
+Real-Time Colour Identifier from Web Cam
